@@ -1,0 +1,22 @@
+---
+layout: post
+title: 12/15/2020 Market Analysis
+date: 2020-12-15 12:56:00 -0800
+description: Market Analysis
+#img: i-rest.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market]
+---
+# General Market commentary
+![SPX]({{site.baseurl}}/assets/img/2020-12-15/SPX-d.jpg)
+The S&P 500 index made a decent recovery today on positive stimulus talks. The stimulus will be a key driver for the market in the near term.
+I am still cautiously optimistic on the market. However, the bullish sentiment keeps me on high alert. Many new traders are trading/investing like crazy and making good returns.
+Usually this indicates an impending market pullback. But always remember, you can never solely rely on sentiment readings to time the market. The PRICE ALWAYS dictates.
+
+# Quantative market model signal
+Moderately bullish
+
+# Featured chart
+## TAN
+![TAN]({{site.baseurl}}/assets/img/2020-12-15/TAN-d.jpg)
+The solar ETF is on fire - again. +8.07% in one day for an ETF is a significant advance. The whole solar industry is getting love and institutions are piling in. The bullish momentum should continue and indicating higher prices.
