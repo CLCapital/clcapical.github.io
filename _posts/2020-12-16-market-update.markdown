@@ -22,6 +22,6 @@ Key take aways:
 # Featured chart
 ## NYFANG:SPX
 ![NYFANG:SPX]({{site.baseurl}}/assets/img/2020-12-16/NYFANG-SPX-d.jpg)
-The mighty FANG stocks has been lagging lately. The ratio of NYFANG:SPX broke out of an uptrending channel at the beginning of November.
+The mighty FANG stocks have been lagging lately. The ratio of NYFANG:SPX broke out of an uptrending channel at the beginning of November.
 However these large caps are catching up now. Don't get me wrong - AAPL/MSFT/AMZN/GOOG/FB/NFLX are still good, but I bet you won't see those 5x-10x moves in the next few years.
 To outperform the market, you'd better to rotate your money to some hotter industries like solar I mentioned yesterday. But the risk is higher too.
