@@ -22,7 +22,7 @@ social-email: # add your Email address
 discus-identifier: clcapital
 
 # Tracker
-analytics: # Google Analytics
+google_analytics: UA-185723935-1
 
 # Build Settings
 markdown: kramdown
