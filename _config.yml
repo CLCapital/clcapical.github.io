@@ -18,18 +18,21 @@ social-github: # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
-# Disqus
-discus-identifier: clcapital
-
-# Tracker
-google_analytics: UA-185723935-1
-
 # Build Settings
 markdown: kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
+  - jekyll-analytics
+
+  # Disqus
+discus-identifier: clcapital
+
+# Tracker
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-185723935-1
 
 paginate: 8
 paginate_path: "/page/:num"
