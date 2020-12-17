@@ -5,7 +5,7 @@ date: 2020-12-17 11:56:00 -0800
 description: Stock Ideas
 #img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Stock, JMIA, ECommerce]
+tags: [Stock, JMIA, VNET, Cloud, China, ECommerce]
 ---
 # [JMIA](https://group.jumia.com/) 
 ![JMIA]({{site.baseurl}}/assets/img/2020-12-17/JMIA-d.jpg)
