@@ -1,0 +1,23 @@
+---
+layout: post
+title: 12/17/2020 Market Analysis
+date: 2020-12-17 12:56:00 -0800
+description: Market Analysis
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market, FOMC]
+---
+# General Market commentary
+![SPX]({{site.baseurl}}/assets/img/2020-12-17/SPX-d.jpg)
+The S&P 500 index closed at ATH. No matter what you think, ATH itself is very bullish.
+Seasonality wise, December is usually great for the market. Plus, [Santa rally](https://www.investopedia.com/terms/s/santaclauseffect.asp) is around the corner :D. But always keep in mind, anything is possible. Always be prepared for market pullbacks.
+
+# Quantative market model signal
+1. Midterm trend: bullish(upgraded from moderately bullish)
+2. Midterm risk: high(downgraded from neutral)
+
+# Featured chart
+## GEX
+![GEX]({{site.baseurl}}/assets/img/2020-12-17/GEX-d.jpg)
+We are at unprecedented times. All the money printing has skyrocketed asset prices. Retail traders/investors are in a frenzy of speculation.
+The amount of call option buying is off the chart. The historical GEX level is one of the main reasons why we downgraded Midterm risk signal to high from neutral as stated above. To read more about [GEX, click here](https://squeezemetrics.com/monitor/docs#gex).

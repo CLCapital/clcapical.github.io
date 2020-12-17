@@ -1,0 +1,21 @@
+---
+layout: post
+title: 12/17/2020 Stock Ideas
+date: 2020-12-17 11:56:00 -0800
+description: Stock Ideas
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Stock, JMIA, ECommerce]
+---
+# [JMIA](https://group.jumia.com/) 
+![JMIA]({{site.baseurl}}/assets/img/2020-12-17/JMIA-d.jpg)
+Jumia is an e-commerce company in Africa. You can consider it as the Amazon of Africa. 
+This stock is getting a lot of love recently and you can clearly see the hot demand on e-commerce/COVID names.
+To compound you capital rapidly, you need to participate in hyped/high octane names like JMIA with aggress risk management.
+Since September low JMIA experienced a jaw-dropping 500% advance and it looks it still wants to go higher.
+The stock needs to take out 41 level to continue moving higher. If the stock doesn't perform as expected, limit your loss to 10% of your cost.
+
+# [VNET](https://www.21vianet.com/)
+![VNET]({{site.baseurl}}/assets/img/2020-12-17/VNET-d.jpg)
+21Vianet operates Microsoft Azure/Office products in China. It also has an expanding data center business. VNET's most recent earning smashed analysts' estimates.
+It lost money 6 quarters in a row and turned around the situation on the current report. Today it broke out of a consolidation held back by [Blackrock's ADS conversion news](https://finance.yahoo.com/news/21vianet-announces-us-150-million-120235706.html). This stock should see higher prices from here. If the stock doesn't perform as expected, limit your loss to 10% of your cost.
