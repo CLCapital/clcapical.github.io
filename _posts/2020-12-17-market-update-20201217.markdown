@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [General Market, GEX]
 ---
 # General Market commentary
-![SPX]({{site.baseurl}}/assets/img/2020-12-17/SPX-d.jpg)
+[![SPX]({{site.baseurl}}/assets/img/2020-12-17/SPX-d.jpg)]({{site.baseurl}}/assets/img/2020-12-17/SPX-d.jpg)
 The S&P 500 index closed at ATH. No matter what you think, ATH itself is very bullish.
 Seasonality wise, December is usually great for the market. Plus, [Santa rally](https://www.investopedia.com/terms/s/santaclauseffect.asp) is around the corner :D. But always keep in mind, anything is possible. Always be prepared for market pullbacks.
 
@@ -18,6 +18,6 @@ Seasonality wise, December is usually great for the market. Plus, [Santa rally](
 
 # Featured chart
 ## GEX
-![GEX]({{site.baseurl}}/assets/img/2020-12-17/GEX-d.jpg)
+[![GEX]({{site.baseurl}}/assets/img/2020-12-17/GEX-d.jpg)]({{site.baseurl}}/assets/img/2020-12-17/GEX-d.jpg)
 We are at unprecedented times. All the money printing has skyrocketed asset prices. Retail traders/investors are in a frenzy of speculation.
 The amount of call option buying is off the chart. The historical GEX level is one of the main reasons why we downgraded Midterm risk signal to high from neutral as stated above. To read more about [GEX, click here](https://squeezemetrics.com/monitor/docs#gex).
