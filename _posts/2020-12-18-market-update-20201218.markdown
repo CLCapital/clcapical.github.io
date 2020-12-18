@@ -1,0 +1,22 @@
+---
+layout: post
+title: 12/18/2020 Market Analysis
+date: 2020-12-18 12:56:00 -0800
+description: Market Analysis
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market, GEX, OPEX]
+---
+# General Market commentary
+![SPX]({{site.baseurl}}/assets/img/2020-12-17/SPX-d.jpg)
+The S&P 500 index experienced choppy action on the [quad-witching day](https://www.marketwatch.com/story/what-will-quad-witching-mean-for-the-stock-market-trade-on-friday-11600371672) as expected. 
+We are seeing some stocks breaking out of bases but also some reversals. The overall tape is mixed.
+
+# Quantative market model signal
+1. Midterm trend: bullish
+2. Midterm risk: neutral(upgraded from high)
+
+# Featured chart
+## GEX
+![GEX]({{site.baseurl}}/assets/img/2020-12-18/GEX-d.jpg)
+GEX has came down quiet a bit as expected. This de-leverages option market maker's exposure, and therefore we upgraded Midterm risk in Quantative market model signal from high to neutral.

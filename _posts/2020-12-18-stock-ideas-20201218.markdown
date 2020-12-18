@@ -1,0 +1,20 @@
+---
+layout: post
+title: 12/18/2020 Stock Ideas
+date: 2020-12-18 11:56:00 -0800
+description: Stock Ideas
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Stock, JMIA, VNET, Cloud, China, ECommerce]
+---
+# [JMIA](https://group.jumia.com/) 
+![JMIA]({{site.baseurl}}/assets/img/2020-12-18/JMIA-d.jpg)
+JMIA is the idea we brought up in [yesterday's stock ideas]({% post_url 2020-12-17-stock-ideas-20201217 %}).
+This rocket closed +8.6% with a high of +11.7% after taking out the 41 level we mentioned yesterday. 
+We bought this name in our account as planned and looking for higher prices.
+
+# [VNET](https://www.21vianet.com/)
+![VNET]({{site.baseurl}}/assets/img/2020-12-18/VNET-d.jpg)
+VNET also comes from [yesterday's stock ideas]({% post_url 2020-12-17-stock-ideas-20201217 %}).
+This stock followed up with yesterday's huge advance and managed to close +3.6% today.
+We are playing this name through call options.
