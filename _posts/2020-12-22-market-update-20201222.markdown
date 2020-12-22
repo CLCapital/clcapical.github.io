@@ -1,0 +1,27 @@
+---
+layout: post
+title: 12/22/2020 Market Analysis
+date: 2020-12-22 12:56:00 -0800
+description: Market Analysis
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market, VIX, USD, WTIC]
+---
+# General Market commentary
+[![SPX]({{site.baseurl}}/assets/img/2020-12-22/SPX-d.jpg)]({{site.baseurl}}/assets/img/2020-12-22/SPX-d.jpg)
+Market closed down a tad on the day. As indicated in [yesterday's market update]({% post_url 2020-12-21-market-update-20201221 %}), the general market indeed experienced elevated volatility. This can be seen on VIX readings as well.
+
+# Quantative market model signal
+1. Midterm trend: moderately bullish
+2. Midterm risk: high
+
+# Featured charts
+## VIX
+[![VIX]({{site.baseurl}}/assets/img/2020-12-22/VIX-d.jpg)]({{site.baseurl}}/assets/img/2020-12-22/VIX-d.jpg)
+VIX spiked higher and closed weak yesterday. Today's effort to contain VIX didn't make much progress. Recently VIX has been rising together with SPX, further confirming CLCapital's thesis of elevated volatility.
+## USD
+[![USD]({{site.baseurl}}/assets/img/2020-12-22/USD-d.jpg)]({{site.baseurl}}/assets/img/2020-12-22/USD-d.jpg)
+USD tried to spike higher today but sold off later in the day. USD weakness is one of the key drivers of the market rally. If USD gets any up legs, the general market will be under pressure.
+## WTIC
+[![WTIC]({{site.baseurl}}/assets/img/2020-12-22/WTIC-d.jpg)]({{site.baseurl}}/assets/img/2020-12-22/WTIC-d.jpg)
+Crude oil is weakening after a strong recovery. The weakness is also confirmed by "recovery stocks" like JETS/XLE. This is a warning sign for the general market. However, if you are positioned in tech stocks, then you should feel the money is rotating into your hands.

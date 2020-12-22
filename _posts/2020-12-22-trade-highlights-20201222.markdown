@@ -1,0 +1,17 @@
+---
+layout: post
+title: 12/22/2020 Private Trade Highlights
+date: 2020-12-22 11:56:00 -0800
+description: Private Trade Highlights
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Stock, Options, Trade, Private, Highlight, PTON]
+---
+# Option trades
+[![DBX]({{site.baseurl}}/assets/img/2020-12-22/CLCapitalPrivate/DBX25c-trade.jpg)]({{site.baseurl}}/assets/img/2020-12-22/CLCapitalPrivate/DBX25c-trade.jpg)
+
+We traded DBX 25c and were able to catch a fast 100% gain in less than 10 minutes. 
+Option trading is ultra-risky so manage risk is the most important thing in the game. 
+
+# Stock trades
+[![PTON]({{site.baseurl}}/assets/img/2020-12-22/CLCapitalPrivate/PTON-testimonial.jpg)]({{site.baseurl}}/assets/img/2020-12-22/CLCapitalPrivate/PTON-testimonial.jpg)

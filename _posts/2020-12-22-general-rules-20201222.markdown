@@ -1,0 +1,15 @@
+---
+layout: post
+title: 12/22/2020 General rules - CL Capital
+date: 2020-12-22 11:56:00 -0800
+description: General rules - CL Capital
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [annoucements, administation, rules]
+---
+
+# Rules
+1. CL Capital's ideas are NOT investment advice nor recommendations of any kind.
+2. Stock/commodity/forex markets are inherently risky. There is NO guaranteed outcome for ANY kinds of investments.
+3. You as the reader are solely responsible for making your own investment decisions.
+4. CL Capital's admins are NOT registered as securities brokers nor investment advisors. Please seek financial advisors for investment ideas.
