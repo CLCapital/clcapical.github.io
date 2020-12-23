@@ -1,0 +1,29 @@
+---
+layout: post
+title: 12/23/2020 Market Analysis
+date: 2020-12-23 12:56:00 -0800
+description: Market Analysis
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market, XL, news]
+---
+# General Market commentary
+[![SPX]({{site.baseurl}}/assets/img/2020-12-23/SPX-d.jpg)]({{site.baseurl}}/assets/img/2020-12-23/SPX-d.jpg)
+Market completely erased the gains due to a sharp selloff right before close. As we highlighted in [yesterday's market update]({% post_url 2020-12-22-market-update-20201222 %}) as well as recent posts, we have been pounding the table on managing risk. The current market is almost completely driven by stimulus optimism. 
+However, Trump refused to pass the $600 stimulus and demands a $2,000 check. [Read more here](https://www.washingtonpost.com/nation/2020/12/23/coronavirus-covid-live-updates-us/).
+If the government fails to pass the stimulus deal in time, be prepared for a BIG sell off.
+
+# Quantative market model signal
+1. Midterm trend: neutral (dowgraded from moderately bullish)
+2. Midterm risk: high
+
+# Featured charts
+[![SPX]({{site.baseurl}}/assets/img/2020-12-23/XL-market-summary.jpg)]({{site.baseurl}}/assets/img/2020-12-23/XL-market-summary.jpg)
+
+As they say, there is always a bull market somewhere. Today XL stands out. 
+The recent madness in SPACs has been crazy, and no one knows when and how it ends.
+But as market speculators, this is a great environment for us. Remember, madness begets madness.
+Below are the alerts sent in private twitter.
+If you are thinking about following our twitter, please [read the rules first]({% post_url 2020-12-22-clcapital-twitter-rules.20201222 %}).
+
+[![SPX]({{site.baseurl}}/assets/img/2020-12-23/XL-private-alerts.jpg)]({{site.baseurl}}/assets/img/2020-12-23/XL-private-alerts.jpg)
