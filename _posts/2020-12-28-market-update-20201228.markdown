@@ -1,0 +1,36 @@
+---
+layout: post
+title: 12/28/2020 Market Analysis
+date: 2020-12-28 12:56:00 -0800
+description: Market Analysis
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market, VIX, USD, WTIC]
+---
+# Announcements
+
+1. Happy holidays readers! 2020 is a truly "special" year for us. I bet anyone live through this year won't forget about it. LOL! COVID-19 changed our lives in so many different ways.
+As market participants, we need to be comfortable with changes and learn to adapt. Anyway, 2021 is approaching. Let's get ready for it and start the year strong!
+
+2. [100% return challenge]({% post_url 2020-12-28-35k-challenge-20201228 %}) is announced for [CL Capital private twitter members]({% post_url 2020-12-22-clcapital-twitter-rules.20201222 %}).
+In this challenge, CL Capital will start an account with $35k and aim for 100% gain in 2021.
+
+3. Educational post [The Game of Psychology]({% post_url 2020-12-28-the-game-of-psychology-20201228 %}) is posted.
+CL Capital paid hefty tuitions to the market to come up with the post. Please give it a read to save yourself some mistakes.
+Please also consider sharing the article if it helps! Many thanks.
+
+# General Market commentary
+[![SPX]({{site.baseurl}}/assets/img/2020-12-28/SPX-d.jpg)]({{site.baseurl}}/assets/img/2020-12-28/SPX-d.jpg)
+Market gapped up and stayed up for the day. This shows the strength of the market we have. This advance is led by the large cap stocks as indicated in [12/16/2020's market update]({% post_url 2020-12-16-market-update-20201216 %}).
+However if you mainly focus on growth stocks, we are seeing some weakness below the surface. Be careful if you are a growth investor!
+
+# Quantative market model signal
+
+1. Midterm trend: moderately bullish
+
+2. Midterm risk: high
+
+# Featured charts
+[![SPX]({{site.baseurl}}/assets/img/2020-12-28/AAPL-d.jpg)]({{site.baseurl}}/assets/img/2020-12-28/AAPL-d.jpg)
+The almighty AAPL is approaching to ATH again. If you are long AAPL, hold onto it is your best bet. However, the crazy optimism on Apple's electric car is a potential risk.
+My best guess is AAPL will stall a bit here and continue higher into seasonally choppy January.

@@ -1,0 +1,42 @@
+---
+layout: post
+title: 12/28/2020 100% Return Challenge for Private Members
+date: 2020-12-28 12:56:00 -0800
+description: 100% Return Challenge for Private Members
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Challenge, superperformance]
+---
+# 100% Return Challenge
+For CL Capital Private members, you are in for a treat! CL Capital will do a completely transparent 6-month 100% account growth challenge with a 35k starting capital beginning 1/1/2021.
+Yes, the goal is to achieve 100% return in the model portfolio. We may or may not be able to achieve the goal depends on the market condition, but it won't be a CHALLENGE if we aim for a normal return, right?
+
+## 100% Reutrn Challenge rules
+
+1. On 1/1/2021, starting capital is set to 35k. It's much easier to grow a small account but we want to demonstrate we can achieve superperformance on a meaningfully funded acccount.
+
+2. We will be mainly trading stocks/options in this challenge. We can cover futures/forex/crypto trading later if there's a strong demand.
+
+3. Daily account balance/positions will be posted after market close.
+
+4. For stocks, entries will be posted in the following format:
+BTO XYZ at 100 SL at 95. This means buy to open XYZ stock at a cost of 100 with stop loss at 95.
+Exits will be posted in the following format:
+STC XYZ at 110. This means sell to close XYZ stock at 110.
+
+5. For options, entries will be posted in the following format:
+BTO XYZ 20210108C100 at 1. This means buy to open XYZ 100 strike calls expiring on 2021 Jan 8th at a cost of 1.
+Exits will be posted in the following format:
+STC XYZ 20210108C100 at 2.This means sell to close XYZ 100 strike calls expiring on 2021 Jan 8th at 2.
+
+## Prerequisites
+To follow the 100% return challenge, you need to the following:
+
+1. Be sure you have read [CL Capital's general rules]({% post_url 2020-12-22-general-rules-20201222 %}).
+
+2. Read this post - [The Game of Psychology]({% post_url 2020-12-28-the-game-of-psychology-20201228 %}) thoroughly. Raise ANYTHING you don't understand to CL Capital IMMEDIATELY through the reply section on the post.
+
+3. Read this post - [CL Capital Glossaries]({% post_url 2020-12-28-glossaries-20201228 %}) thoroughly. Raise ANYTHING you don't understand to CL Capital IMMEDIATELY through the reply section on the post.
+
+4. An account with option trading enabled. Rest assured if you are not an option trader. We will still post stock plays but we may or may not place the order in the challenge account.
+Or, you can do paper trading as well if you don't want to risk real money.

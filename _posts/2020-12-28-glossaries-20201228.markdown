@@ -1,0 +1,32 @@
+---
+layout: post
+title: 12/22/2020 Glossaries - CL Capital
+date: 2020-12-22 11:56:00 -0800
+description: Glossaries - CL Capital
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Glossaries]
+---
+
+# Common glossaries
+
+| Glossary | explanation |
+|---|---|
+| BTO | buy to open | 
+| STC | sell to close |
+| SL | stop loss |
+| PDT | pattern day trader |
+| ATH | all time high |
+
+# Option glossaries
+
+| Glossary | explanation |
+|---|---|
+| C/c | call |
+| P/p | put |
+| exp | expire |
+| IV/iv | implied volatility |
+| weekly | options expire this week |
+| next week | options expire next week |
+| monthly | options expire on the next date marked by [◇ here](https://www.marketwatch.com/optionscenter/calendar) |
+| LEAP/leap | [long term options](https://www.investopedia.com/terms/l/leaps.asp#:~:text=LEAPS%20Calls,to%20buy%20100%20shares%20outright.) |
