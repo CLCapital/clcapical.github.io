@@ -31,6 +31,6 @@ However if you mainly focus on growth stocks, we are seeing some weakness below 
 2. Midterm risk: high
 
 # Featured charts
-[![SPX]({{site.baseurl}}/assets/img/2020-12-28/AAPL-d.jpg)]({{site.baseurl}}/assets/img/2020-12-28/AAPL-d.jpg)
+[![AAPL]({{site.baseurl}}/assets/img/2020-12-28/AAPL-d.jpg)]({{site.baseurl}}/assets/img/2020-12-28/AAPL-d.jpg)
 The almighty AAPL is approaching to ATH again. If you are long AAPL, hold onto it is your best bet. However, the crazy optimism on Apple's electric car is a potential risk.
 My best guess is AAPL will stall a bit here and continue higher into seasonally choppy January.
