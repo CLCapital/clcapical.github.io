@@ -1,0 +1,50 @@
+---
+layout: post
+title: 12/30/2020 Market Analysis
+date: 2020-12-30 12:56:00 -0800
+description: Market Analysis
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market, Market Breadth, BPSPX, PDD, BIDU]
+---
+# General Market commentary
+[![SPX]({{site.baseurl}}/assets/img/2020-12-30/SPX-d.jpg)]({{site.baseurl}}/assets/img/2020-12-30/SPX-d.jpg)
+S&P 500 went inside today. The volume is light as year end approaching. The internal of the market is getting a little bit thinner as you can see below. If you are unfamiliar with $BPSPX indicator, please read [this document: StockCharts Bullish Percent Index
+](https://school.stockcharts.com/doku.php?id=index_symbols:bpi_symbols).
+[![SPX]({{site.baseurl}}/assets/img/2020-12-30/SPX-BPSPX-d.jpg)]({{site.baseurl}}/assets/img/2020-12-30/SPX-BPSPX-d.jpg)
+
+As you can see in the $SPX vs $BPSPX chart, the divergence is getting wider. This is another reason why we see the midterm risk is high.
+
+# Quantative market model signal
+
+1. Midterm trend: moderately bullish
+
+2. Midterm risk: high
+
+# Featured charts
+
+## PDD
+[![PDD]({{site.baseurl}}/assets/img/2020-12-30/PDD-market-summary.jpg)]({{site.baseurl}}/assets/img/2020-12-30/PDD-market-summary.jpg)
+
+As we highlighted in [yesterday's market update]({% post_url 2020-12-29-market-update-20201229 %}), PDD closed up with another +7.77% today.
+This sustained buying proved our thesis that all the funds want China E-commerce exposure are under-allocated on PDD.
+We called for 200 price target in the near term and it might get there soon.
+
+## BIDU
+[![BIDU]({{site.baseurl}}/assets/img/2020-12-30/BIDU-market-summary.jpg)]({{site.baseurl}}/assets/img/2020-12-30/BIDU-market-summary.jpg)
+[![BIDU]({{site.baseurl}}/assets/img/2020-12-30/BIDU-d.jpg)]({{site.baseurl}}/assets/img/2020-12-30/BIDU-d.jpg)
+
+CL Capital had a fun day with Baidu. BIDU broke out of a short consolidation and closed up +12.59% today and gained another 2% in after hours.
+CL Capital entered BIDU 20201231C205 calls at 3. It hit 15 at close. That's +500% gain in one day.
+We then entered 20210115C220/240 bull call spread as a safer play for [our private members]({% post_url 2020-12-22-clcapital-twitter-rules.20201222 %}).
+
+[![BIDU]({{site.baseurl}}/assets/img/2020-12-30/CLCapitalPrivate/BIDU220-240c-trade.jpg)]({{site.baseurl}}/assets/img/2020-12-30/CLCapitalPrivate/BIDU220-240c-trade.jpg)
+
+Needless to say after an hour and half those call spreads went +100%. We alerted our members to sell half and make the rest a free bet to manage risk.
+
+[![BIDU]({{site.baseurl}}/assets/img/2020-12-30/CLCapitalPrivate/BIDU220-240c-trade-double.jpg)]({{site.baseurl}}/assets/img/2020-12-30/CLCapitalPrivate/BIDU220-240c-trade-double.jpg)
+
+These call spreads are now a free bet and [theta](https://www.investopedia.com/terms/t/theta.asp#:~:text=The%20term%20theta%20refers%20to,time%20decay%20of%20an%20option.&text=Theta%20is%20generally%20expressed%20as,option%27s%20value%20declines%20every%20day.) neutral with 2 weeks to go. CL Capital believes this will be a great trade to wrap up 2020 and to start 2021 strong!
+
+One final bonus for our patient readers: Remember to play what's moving. This is the best way to compound your capital rapidly.
+The current theme in the market is clearly EV and China stocks :). As always, remember to manage your own risk!!!

@@ -5,7 +5,7 @@ date: 2020-12-29 12:56:00 -0800
 description: Market Analysis
 #img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [General Market, LOGI]
+tags: [General Market, PDD]
 ---
 # General Market commentary
 [![SPX]({{site.baseurl}}/assets/img/2020-12-29/SPX-d.jpg)]({{site.baseurl}}/assets/img/2020-12-29/SPX-d.jpg)
