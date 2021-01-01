@@ -1,0 +1,50 @@
+---
+layout: post
+title: 12/31/2020 Market Analysis
+date: 2020-12-31 12:56:00 -0800
+description: Market Analysis
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market. VIX]
+---
+# General Market commentary
+[![SPX]({{site.baseurl}}/assets/img/2020-12-31/SPX-d.jpg)]({{site.baseurl}}/assets/img/2020-12-31/SPX-d.jpg)
+What a strong ATH close to wrap up 2020! Although 2020 is a tough year, FED's unlimited QE & rate cut pushed asset prices to a new record high.
+Wall street really need their big fat bonus check, don't they?
+Anyway, as it is the year end, we want to give a long term perspective on the markets. Please read below.
+
+# Quantative market model signal
+
+1. Midterm trend: moderately bullish
+
+2. Midterm risk: high
+
+# Featured charts
+
+[![SPX]({{site.baseurl}}/assets/img/2020-12-31/SPX-m.jpg)]({{site.baseurl}}/assets/img/2020-12-31/SPX-m.jpg)
+This S&P 500 monthly charts clearly says we are in a secular bull market. However, it is worth noticing the megaphone pattern formed since 2018.
+Of course this is alone is not immediately bearish, but we need to be prepared to embrace elevated volatility as the new norm.
+This is also confirmed by this 20-ish strong VIX support level:
+
+[![SPX]({{site.baseurl}}/assets/img/2020-12-31/VIX-d.jpg)]({{site.baseurl}}/assets/img/2020-12-31/VIX-d.jpg)
+
+Ideally we want VIX to be compressed as much as possible. But Since the March 2020 crash VIX has been refusing to give up this 20-ish support.
+Refusing to die is a sign of life. This is another warning sign. Again, don't solely act on it. In the end it's the price that dictates.
+Please keep an eye on our market updates as we will try to alert dangerous signals for our readers ASAP.
+
+For advanced readers, here is the VIX futures term structure. The flat structure isn't an all-clear sign.
+However bull market thrives on fear, isn't it!
+
+[![SPX]({{site.baseurl}}/assets/img/2020-12-31/VIX-structure.jpg)]({{site.baseurl}}/assets/img/2020-12-31/VIX-structure.jpg)
+
+# Bonus ideas
+
+Here's the new year gift for our readers! We are grateful to have your support.
+Since majority of our readers are passive investors, we have picked some sectors and their corresponding ETFs for 2021/Biden presidency:
+
+| sector | ETFs to consider |
+|---|---|
+| electric vehicle | DRIV |
+| new energy | TAN, ICLN |
+| online gaming | HERO |
+| cannabis | YOLO |
