@@ -1,0 +1,31 @@
+---
+layout: post
+title: 1/4/2021 Market Analysis
+date: 2021-01-04 12:56:00 -0800
+description: Market Analysis
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market, RRG]
+---
+# General Market commentary
+[![SPX]({{site.baseurl}}/assets/img/2021-01-04/SPX-d.jpg)]({{site.baseurl}}/assets/img/2020-01-04/SPX-d.jpg)
+A bloody red day to start 2021. We have been pounding the table on the elevated for weeks. Alertive readers raised cash and avoided this rug pull. Congratulations!
+Active investors should wait for the market to calm down then get aggressive progressively. This is NOT a time to put full risk on.
+A proliferation of pump and dump on leading stocks is a sign of institutional liquidation.
+
+# Quantative market model signal
+
+1. Midterm trend: moderately bearish (downgraded from moderately bullish)
+
+2. Midterm risk: high (we have been alerted this risk for weeks!!!)
+
+# Featured charts
+
+[![RRG]({{site.baseurl}}/assets/img/2021-01-04/RRG-d.jpg)]({{site.baseurl}}/assets/img/2021-01-04/RRG-d.jpg)
+
+This [RRG](https://school.stockcharts.com/doku.php?id=chart_analysis:rrg_charts) chart shows the relative strength of different sectors.
+The strength of financials(XLF) is simply mind-boggling. It is possibly driven by this catalyst: [The Fed Says Banks Can Buy Back Stock Again](https://www.barrons.com/articles/the-fed-just-said-banks-could-buy-back-stock-again-jpmorgan-and-goldman-sachs-are-soaring-51608333684).
+Although CL Capital as a growth investor doesn't like financials too much, it is very important to keep in mind you have to bend with the market.
+Personal opinions are meaningless. In the end it's the price dicates. Remember, stocks are only good when they go up!
+
+Please feel free to reply below with your questions and **share our thoughts on social media**! CL Capital is grateful for your support!
