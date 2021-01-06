@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [General Market, RRG]
 ---
 # General Market commentary
-[![SPX]({{site.baseurl}}/assets/img/2021-01-04/SPX-d.jpg)]({{site.baseurl}}/assets/img/2020-01-04/SPX-d.jpg)
+[![SPX]({{site.baseurl}}/assets/img/2021-01-04/SPX-d.jpg)]({{site.baseurl}}/assets/img/2021-01-04/SPX-d.jpg)
 A bloody red day to start 2021. We have been pounding the table on the elevated for weeks. Alertive readers raised cash and avoided this rug pull. Congratulations!
 Active investors should wait for the market to calm down then get aggressive progressively. This is NOT a time to put full risk on.
 A proliferation of pump and dump on leading stocks is a sign of institutional liquidation.

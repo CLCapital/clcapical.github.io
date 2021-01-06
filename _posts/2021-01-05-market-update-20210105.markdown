@@ -11,7 +11,8 @@ tags: [General Market, election, senate]
 Please feel free to reply below with your questions and **share our thoughts on social media**! CL Capital is grateful for your support!
 
 # General Market commentary
-[![SPX]({{site.baseurl}}/assets/img/2021-01-05/SPX-d.jpg)]({{site.baseurl}}/assets/img/2020-01-05/SPX-d.jpg)
+[![SPX]({{site.baseurl}}/assets/img/2021-01-05/SPX-d.jpg)]({{site.baseurl}}/assets/img/2021-01-05/SPX-d.jpg)
+
 SPX found its support at 20 day moving average and rebounded today. Now the focus is on U.S. Senate runoffs.
 If Democratic party wins, the market can suffer a deeper pullback due to tax concerns.
 However, a Democratic sweep across the board also means a bigger stimulus package.
