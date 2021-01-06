@@ -1,0 +1,32 @@
+---
+layout: post
+title: 1/5/2021 Market Analysis
+date: 2021-01-05 12:56:00 -0800
+description: Market Analysis
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market, election, senate]
+---
+# README
+Please feel free to reply below with your questions and **share our thoughts on social media**! CL Capital is grateful for your support!
+
+# General Market commentary
+[![SPX]({{site.baseurl}}/assets/img/2021-01-05/SPX-d.jpg)]({{site.baseurl}}/assets/img/2020-01-05/SPX-d.jpg)
+SPX found its support at 20 day moving average and rebounded today. Now the focus is on U.S. Senate runoffs.
+If Democratic party wins, the market can suffer a deeper pullback due to tax concerns.
+However, a Democratic sweep across the board also means a bigger stimulus package.
+Uncertainty is elevated right now, so it's better for short term traders to stay on the side and let the dust settle first.
+
+# Quantative market model signal
+
+1. Midterm trend: moderately bearish
+
+2. Midterm risk: high (we have been alerted this risk for weeks!!!)
+
+# Featured charts
+
+[![Senate runoffs]({{site.baseurl}}/assets/img/2021-01-05/senate-runoffs.jpg)]({{site.baseurl}}/assets/img/2021-01-05/senate-runoffs.jpg)
+
+NO chart is more important than this one as of now. No matter what happens, you as an investor need to have a plan.
+If Democratic party wins, it's good to consider renewable energy, infrastructure and cannabis plays.
+If Republican party wins, it's good to consider mega-cap stocks.
