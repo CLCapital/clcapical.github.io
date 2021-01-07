@@ -9,6 +9,8 @@ tags: [General Market, election, senate, bond, treasury, yield]
 ---
 # README
 Please feel free to reply below with your questions and **share our thoughts on social media**! CL Capital is grateful for your support!
+If you are thinking about following our twitter, please [read the rules first]({% post_url 2020-12-22-clcapital-twitter-rules.20201222 %}).
+Many thanks!
 
 # General Market commentary
 [![SPX]({{site.baseurl}}/assets/img/2021-01-06/SPX-d.jpg)]({{site.baseurl}}/assets/img/2021-01-06/SPX-d.jpg)
