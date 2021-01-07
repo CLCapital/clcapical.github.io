@@ -1,0 +1,35 @@
+---
+layout: post
+title: 1/6/2021 Market Analysis
+date: 2021-01-06 12:56:00 -0800
+description: Market Analysis
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market, election, senate, bond, treasury, yield]
+---
+# README
+Please feel free to reply below with your questions and **share our thoughts on social media**! CL Capital is grateful for your support!
+
+# General Market commentary
+[![SPX]({{site.baseurl}}/assets/img/2021-01-06/SPX-d.jpg)]({{site.baseurl}}/assets/img/2021-01-06/SPX-d.jpg)
+
+Demoratic won the senate runoffs today. Market initially rallied due to eliminated runoffs uncertainty.
+However it later retraced half of the gains due to this news: [Trump supporters storm Capitol](https://www.washingtonpost.com/dc-md-va/2021/01/06/dc-protests-trump-rally-live-updates/).
+As predicted in [yesterday's market analysis]({% post_url 2021-01-06-market-update-20210106 %}), renewable energy, infrastructure and cannabis EXPLODED!
+For example, SPWR(renewable energy) closed +20%. URI(infrastructure) closed +9%. TLRY(cannabis) closed +13%.
+Well positioned readers can secure some profits if you are playing short term speculation.
+
+# Quantative market model signal
+
+1. Midterm trend: neutral (upgraded to neutral)
+
+2. Midterm risk: high (we have been alerted this risk for weeks!!!)
+
+# Featured charts
+
+[![UST10Y]({{site.baseurl}}/assets/img/2021-01-06/UST10Y-d.jpg)]({{site.baseurl}}/assets/img/2021-01-06/UST10Y-d.jpg)
+U.S. 10-year treasury note rose above 1% for the first time since last March's COVID crash.
+The rise in bond yield indicates the market is indeed anticipating a big stimulus package following Democratic party sweep.
+However, a 1% yield is a ridiculous return right now. In this current market condition, no retail investor should own treasuries.
+A simple alternative is to park your sitting cash into some SPAC plays close to its floor price and sell it on merger news.
+This way, your reward/risk ratio really only depends on how close you can buy those shares from their floor prices.
