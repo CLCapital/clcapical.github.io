@@ -1,0 +1,37 @@
+---
+layout: post
+title: 1/6/2021 Market Analysis
+date: 2021-01-06 12:56:00 -0800
+description: Market Analysis
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market, election, senate, bond, treasury, yield]
+---
+# README
+Please feel free to reply below with your questions and **share our thoughts on social media**! CL Capital is grateful for your support!
+If you are thinking about following our twitter, please [read the rules first]({% post_url 2020-12-22-clcapital-twitter-rules.20201222 %}).
+Many thanks!
+
+# General Market commentary
+[![SPX]({{site.baseurl}}/assets/img/2021-01-07/SPX-d.jpg)]({{site.baseurl}}/assets/img/2021-01-07/SPX-d.jpg)
+
+Followed by our Midterm trend upgrade in [yesterday's market analysis]({% post_url 2021-01-06-market-update-20210106 %}), the market closed at ATH today.
+It looks like a melt up here confirmed by market internals. As you can see in NAA50R, the market breadth hit a recent high of 84.42%.
+This means 84.42% of NASDAQ issues are trading above their 50 day moving averages.
+This is a healthy sign. Shall the market pulls back, the dips should be buyable.
+
+# Quantative market model signal
+
+1. Midterm trend: bullish (upgraded from neutral)
+
+2. Midterm risk: neutral (downgraded from high)
+
+# Featured charts
+
+[![BTCUSD]({{site.baseurl}}/assets/img/2021-01-07/BTCUSD-d.jpg)]({{site.baseurl}}/assets/img/2021-01-07/BTCUSD-d.jpg)
+Bitcoin hit 40K today! It only took BTC less than a month to gain 100% following an ATH breakout at $20,000.
+However, one can clearly see the rate of advance is accelerating - this is a sign of euphoria and usually leads to exhaustion and short term climatic tops.
+But make no mistake, CL Capital is VERY BULLISH on BTC in the long run given the risk of the fiat currency system.
+For long term investors, any major dips should be buyable. But DO NOT overweight cryptos in your portfolio unless you REALLY know what you are doing.
+CL Capital's view on cryptos is a PUT/insurance against the current financial system. You have to buy insurance, but you probably don't need a LOT of it.
+Of course for crypto believers with STRONG conviction, the strategy has never changed - HODL!

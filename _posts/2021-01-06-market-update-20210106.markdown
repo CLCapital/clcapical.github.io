@@ -17,7 +17,7 @@ Many thanks!
 
 Demoratic won the senate runoffs today. Market initially rallied due to eliminated runoffs uncertainty.
 However it later retraced half of the gains due to this news: [Trump supporters storm Capitol](https://www.washingtonpost.com/dc-md-va/2021/01/06/dc-protests-trump-rally-live-updates/).
-As predicted in [yesterday's market analysis]({% post_url 2021-01-06-market-update-20210106 %}), renewable energy, infrastructure and cannabis EXPLODED!
+As predicted in [yesterday's market analysis]({% post_url 2021-01-05-market-update-20210105 %}), renewable energy, infrastructure and cannabis EXPLODED!
 For example, SPWR(renewable energy) closed +20%. URI(infrastructure) closed +9%. TLRY(cannabis) closed +13%.
 Well positioned readers can secure some profits if you are playing short term speculation.
 
