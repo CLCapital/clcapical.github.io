@@ -1,0 +1,42 @@
+---
+layout: post
+title: 1/11/2021 Market Analysis
+date: 2021-01-11 12:56:00 -0800
+description: Market Analysis
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market, BTC, crypto, GEX, OPEX]
+---
+# README
+Please feel free to reply below with your questions and **share our thoughts on social media**! CL Capital is grateful for your support!
+If you are thinking about following our twitter, please [read the rules first]({% post_url 2020-12-22-clcapital-twitter-rules.20201222 %}).
+Many thanks!
+
+# General Market commentary
+[![SPX]({{site.baseurl}}/assets/img/2021-01-11/SPX-d.jpg)]({{site.baseurl}}/assets/img/2021-01-11/SPX-d.jpg)
+S&P 500 is down 0.66% today. This is a much needed break to prevent the market to "take the staircase up and elevator down".
+However, remember this week is [OPEX week](https://www.marketwatch.com/optionscenter/calendar) and the market is expected to be volatile and choppy.
+Nothing bearish insight yet, but it's important to watch TSLA and BTC as the two key indicators for risk appetite.
+If these two key risky assets craters, the market could be in trouble. However if they slowly pull back and consolidate, the market should be in good shape.
+
+# Quantative market model signal
+
+1. Midterm trend: bullish
+
+2. Midterm risk: neutral
+
+# Featured charts
+
+## BTCUSD
+
+[![BTCUSD]({{site.baseurl}}/assets/img/2021-01-11/BTCUSD-d.jpg)]({{site.baseurl}}/assets/img/2021-01-11/BTCUSD-d.jpg)
+Followed by our call in [Jan 7th's market analysis]({% post_url 2021-01-07-market-update-20210107 %}), Bitcoin hit a low ~30K today.
+That's a fast 20%+ drop in a few days since our warning was sent. Remeber, there is no sustainable parabolic advance.
+Congrats to those of you followed our analysis and booked some stellar profits!
+Please note there is nothing bearish in BTC yet, a 20% drop is a normal correction in crypto markets.
+
+## GEX
+
+[![BTCUSD]({{site.baseurl}}/assets/img/2021-01-11/GEX-d.jpg)]({{site.baseurl}}/assets/img/2021-01-11/GEX-d.jpg)
+Well, here is another historical GEX chart. What does this tell you?
+Market makers are under unprecedented gamma exposures and according to [max pain theory](https://www.investopedia.com/terms/m/maxpain.asp#:~:text=The%20Maximum%20Pain%20theory%20states,of%20options%20to%20expire%20worthless.), they will do whatever they can to kill as many options as possible in dollar terms. Therefore the upside for the general market is quiet limited, at least for this week.
