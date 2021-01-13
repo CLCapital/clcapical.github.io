@@ -1,0 +1,40 @@
+---
+layout: post
+title: 1/12/2021 Market Analysis
+date: 2021-01-12 12:56:00 -0800
+description: Market Analysis
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market, GEX, OPEX, XPEV]
+---
+# README
+Please feel free to reply below with your questions and **share our thoughts on social media**! CL Capital is grateful for your support!
+If you are thinking about following our twitter, please [read the rules first]({% post_url 2020-12-22-clcapital-twitter-rules.20201222 %}).
+Many thanks!
+
+# General Market commentary
+[![SPX]({{site.baseurl}}/assets/img/2021-01-12/SPX-d.jpg)]({{site.baseurl}}/assets/img/2021-01-12/SPX-d.jpg)
+S&P 500 is flat today. The market is catching a breath which is healthy.
+The good news is all the growth stocks are absolutely on fireeeeee today!
+We alerted XPEV in our private twitter this morning:
+
+[![XPEV]({{site.baseurl}}/assets/img/2021-01-12/CLCapitalPrivate/XPEV50c-trade.jpg)]({{site.baseurl}}/assets/img/2021-01-12/CLCapitalPrivate/XPEV50c-trade.jpg)
+
+Aaaaaannnnnd the rest is history :).
+
+[![XPEV]({{site.baseurl}}/assets/img/2021-01-12/CLCapitalPrivate/XPEV-market-summary.jpg)]({{site.baseurl}}/assets/img/2021-01-12/CLCapitalPrivate/XPEV-market-summary.jpg)
+
+# Quantative market model signal
+
+1. Midterm trend: bullish
+
+2. Midterm risk: neutral
+
+# Featured charts
+
+## GEX
+
+[![GEX]({{site.baseurl}}/assets/img/2021-01-12/GEX-d.jpg)]({{site.baseurl}}/assets/img/2021-01-12/GEX-d.jpg)
+In [yesterday's market analysis]({% post_url 2021-01-11-market-update-20210111 %}), we discussed GEX could potentialliy limit market upside.
+However, GEX is down a lot today. Remember, most of the faded GEX come from FANG+ stocks. This could signal a short term rally for mega-caps.
+Again, remember this week is [OPEX week](https://www.marketwatch.com/optionscenter/calendar) and the market is expected to be volatile and choppy!!!
