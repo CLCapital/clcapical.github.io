@@ -1,0 +1,44 @@
+---
+layout: post
+title: 1/14/2021 Market Analysis
+date: 2021-01-14 12:56:00 -0800
+description: Market Analysis
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market, FB]
+---
+# README
+Please feel free to reply below with your questions and **share our thoughts on social media**! CL Capital is grateful for your support!
+If you are thinking about following our twitter, please [read the rules first]({% post_url 2020-12-22-clcapital-twitter-rules.20201222 %}).
+Many thanks!
+
+# General Market commentary
+[![SPX]({{site.baseurl}}/assets/img/2021-01-14/SPX-d.jpg)]({{site.baseurl}}/assets/img/2021-01-14/SPX-d.jpg)
+S&P 500 is down 0.38% today. However the growth stocks are still on fire. The problem is those mega-cap stocks are dragging the market down.
+In particular, Facebook has been sold off for a month. Experienced market participants can clearly see the money is rotating out of those mega-cap names.
+There are a few reasons for that, but we'll list the two most important reasons:
+
+1. Political risk. Democratic party controlled congress can be a huge political risk for those tech giants. Aaaaand market doesn't like uncertainty.
+Instead of making risky bet, smart money is flowing out of these names.
+
+2. Secular run might be finished. Those mega-cap stocks had a superb run in the last few years. And they have became investors' favorites.
+Virtually everybody owns those stocks. What happens now? You have a huge amount of supply. To move those stocks higher, you need an even bigger amount of demand!
+We are talking about trillions of dollars here. But where will those demand come from?
+Unless those tech giants can keep posting accelerating earnings, they are already richly valued.
+
+# Quantative market model signal
+
+1. Midterm trend: bullish
+
+2. Midterm risk: neutral
+
+# Featured charts
+
+## FB
+
+[![FB]({{site.baseurl}}/assets/img/2021-01-14/FB-d.jpg)]({{site.baseurl}}/assets/img/2021-01-14/FB-d.jpg)
+Facebook closed below its 200 day moving average today. This is a MAJOR warning sign.
+FYI, Market leaders usually trade way above their 200 day moving averages.
+It is worthy for those mega-cap stock owners to be highly alertive in the current market and even the next few years to come.
+Don't get me wrong - they can still go higher. However, it is highly likely they will be the new laggards in the future.
+**Warning has been sent on Jan 14th, 2021.**
