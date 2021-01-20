@@ -1,0 +1,38 @@
+---
+layout: post
+title: 1/20/2021 Market Analysis
+date: 2021-01-20 12:56:00 -0800
+description: Market Analysis
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market, Joe Biden]
+---
+# README
+Please feel free to reply below with your questions and **share our thoughts on social media**! CL Capital is grateful for your support!
+If you are thinking about following our twitter, please [read the rules first]({% post_url 2020-12-22-clcapital-twitter-rules.20201222 %}).
+Many thanks!
+
+# General Market commentary
+[![SPX]({{site.baseurl}}/assets/img/2021-01-20/SPX-d.jpg)]({{site.baseurl}}/assets/img/2021-01-20/SPX-d.jpg)
+Market closed at ATH yet again today as Joe Biden became the POTUS.
+The mega caps posted superb gains today with Netflix leading the chart +17%.
+We can clearly see a ton of FOMO money flowing back to those mega cap stocks.
+However as we have pointed out, the exceptional returns of those mega caps might be behind us.
+In a bull market, money rotates back and forth. Therefore as an investor you need to be where the action is to maximize your returns.
+There's nothing wrong with buy and hold either! However investors should treat those mega cap stocks as a "savings account" now.
+These stocks are considered as safe havens therefore they don't carry a lot of risk premiums.
+
+# Quantative market model signal
+
+1. Midterm trend: bullish
+
+2. Midterm risk: neutral
+
+# Featured charts
+[![NFLX]({{site.baseurl}}/assets/img/2021-01-20/NFLX-w.jpg)]({{site.baseurl}}/assets/img/2021-01-20/NFLX-w.jpg)
+Stock of the day has to be Netflix. Netflix posted an astonishing +17% gain today following [its earnings report](https://www.cnbc.com/2021/01/19/netflix-nflx-q4-2020-earnings.html).
+The big news from the report is that the cash burning machine is expected to be cash flow positive! It even started to consider stock buy backs.
+But remember, fundamental improvements do NOT always lead to price advance. From June 2018 to June 2020, NFLX stock went no where.
+From July 2020 to today's close, NFLX stock went no where. What does this tell you? Even NFLX can let your invested money sitting dead in it.
+Therefore it is important to emotionally detach yourself from your dear holdings!
+Finally, please allow us to end today's post with a quote from Peter Lynch - "The stock doesn't know you own it".
