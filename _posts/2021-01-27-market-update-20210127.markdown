@@ -1,0 +1,36 @@
+---
+layout: post
+title: 1/27/2021 Market Analysis
+date: 2021-01-27 12:56:00 -0800
+description: Market Analysis
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market, FOMC]
+---
+# README
+Please feel free to reply below with your questions and **share our thoughts on social media**! CL Capital is grateful for your support!
+If you are thinking about following our twitter, please [read the rules first]({% post_url 2020-12-22-clcapital-twitter-rules.20201222 %}).
+Many thanks!
+
+# General Market commentary
+[![SPX]({{site.baseurl}}/assets/img/2021-01-27/SPX-d.jpg)]({{site.baseurl}}/assets/img/2021-01-27/SPX-d.jpg)
+This is the first post in a week since S&P 500 is down 2.57% today. Therefore CL Capital is glad to offer our thoughts on the market.
+Even though the [FOMC statement](https://www.federalreserve.gov/newsevents/pressreleases/monetary20201216a.htm) stays dovish, market still sold off because the FED "didn't beat the expectation" XD.
+Jokes aside, the market looks increasingly dangerous now for the short term. S&P500 has broken down a rising trendline as well as its 20 day EMA support.
+Tomorrow will be the KEY date for the stock market direction. CL Capital is being extra cautious right now and taking a wait-and-see approach.
+
+# Quantative market model signal
+
+1. Midterm trend: neutral (downgraded from bullish)
+
+2. Midterm risk: high (downgraded from neutral)
+
+# Featured charts
+[![GME]({{site.baseurl}}/assets/img/2021-01-27/GME-d.jpg)]({{site.baseurl}}/assets/img/2021-01-27/GME-d.jpg)
+Of course we need to talk about GameStop. This heavily shorted stock rocketed a whopping 2000%+ in a MONTH.
+What we are witnessing here is historical. An army of retail traders squeezed a number of wall street hedge funds.
+Besizes the mind-blowing short squeeze, there are further chain effects!
+For example, those hedge fund shorting GameStop will be forced to liquidate other holdings to meet margin requirements.
+This is one of the reasons that many quality growth stocks got hammered recently.
+For long term investors, this will create a good dip buying opportunity ONCE the short squeeze frenzy is **OVER**.
+For short term speculators, please try to stay on the sidelines unless you can navigate the up and downs in a volatile market smoothly.
