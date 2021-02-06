@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2/5/2021 Market Analysis
+date: 2021-02-05 12:56:00 -0800
+description: Market Analysis
+#img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [General Market]
+---
+# README
+Please feel free to reply below with your questions and **share our thoughts on social media**! CL Capital is grateful for your support!
+If you are thinking about following our twitter, please [read the rules first]({% post_url 2020-12-22-clcapital-twitter-rules.20201222 %}).
+Many thanks!
+
+# General Market commentary
+[![SPX]({{site.baseurl}}/assets/img/2021-02-05/SPX-d.jpg)]({{site.baseurl}}/assets/img/2021-02-05/SPX-d.jpg)
+S&P 500 closed at ATH this week again!
+Last week's dip was proved to be a great dip buying opportunity for long term investors as indicated in [last week's market analysis]({% post_url 2021-01-27-market-update-20210127 %}).
+
+
+# Quantative market model signal
+
+1. Midterm trend: bullish (upgraded from neutral)
+
+2. Midterm risk: neutral (no change from neutral)
+
+# Featured charts
+[![IWM-SPY]({{site.baseurl}}/assets/img/2021-02-05/IWM-SPY-d.jpg)]({{site.baseurl}}/assets/img/2021-02-05/IWM-SPY-d.jpg)
+The small caps have been constantly outperforming the general market for a while now. Small caps are often overlooked by investors as they are not well-known names.
+But always remember, the biggest gains ALWAYS come from stocks NOT in spotlights!
+
+Checkout the [YTD performance in Russell 2000](https://www.barchart.com/stocks/indices/russell/russell2000?viewName=performance&orderBy=percentChangeYtd&orderDir=desc)!
+Most of these names are NOT investors' favorites. It certainly pays to do a treasure hunt in the small caps world! A few names worth noticing are listed below:
+
+| theme | stockss to consider |
+|---|---|
+| electric vehicle | WKHS, FCEL, PLUG |
+| 3d printing | DDD, XONE, SSYS, NNDM |
+| vaccine | NVAX |
+| oncology | GRTS, OCX, ZIOP |
+| crypto | OSTK, SI, MSTR |
+
+[![RUT-YTD-performance]({{site.baseurl}}/assets/img/2021-02-05/RUT-YTD-performance.jpg)]({{site.baseurl}}/assets/img/2021-02-05/RUT-YTD-performance.jpg)
